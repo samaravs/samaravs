@@ -13,7 +13,7 @@ Estou construindo minha base nos fundamentos da web antes de sair usando framewo
 Blog sobre segurança digital feito do zero — sem libs, sem frameworks.
 Busca em tempo real, componentização com Vanilla JS, CSS Variables, design responsivo.
 
-**[Fortnite Tracker](https://samaravs.github.io/fortnite-stats)**
+**[Fortnite Tracker](https://samaravs.github.io/fortnite-stats/)**
 Dashboard para consulta de estatísticas, loja e novidades do Fortnite em tempo real.
 React 19 · Tailwind CSS v4 · Recharts · Deploy automatizado com GitHub Actions (CI/CD).
 
