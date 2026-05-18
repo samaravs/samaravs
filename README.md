@@ -1,40 +1,38 @@
-### Olá, eu sou a Samara! 👋
+# Olá, eu sou a Samara! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (Estácio, Marabá/PA) com foco em front-end e automação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, tenho interesse por tecnologia, programação e resolução de problemas. Atualmente, estou em busca da minha **primeira oportunidade no mercado de tecnologia**, focando meus estudos e laboratórios práticos em Desenvolvimento Web (Front-End) e Automação de Processos.
 
-Gosto de entender como as coisas funcionam por baixo dos panos — do HTML semântico ao script que automatiza uma publicação.
-Estou construindo minha base nos fundamentos da web antes de sair usando frameworks.
-
----
-
-### O que estou construindo
-
-**[Notas de Cibersegurança](https://samaravs.github.io/Notas-de-ciberseguranca/)**
-Blog sobre segurança digital feito do zero — sem libs, sem frameworks.
-Busca em tempo real, componentização com Vanilla JS, CSS Variables, design responsivo.
-
-**[Fortnite Tracker](https://samaravs.github.io/fortnite-stats/)**
-Dashboard para consulta de estatísticas, loja e novidades do Fortnite em tempo real.
-React 19 · Tailwind CSS v4 · Recharts · Deploy automatizado com GitHub Actions (CI/CD).
-
-**[Só Oferta Boa](https://soofertaboa.live/)**
-Landing page de alta conversão combinada com automação que gera artes e publica no Pinterest sozinho.
-O site serve os produtos 24/7 enquanto a automação roda localmente, protegendo as chaves de API.
-
-**Bot Ofertas — @soofertaboaa**
-Bot separado que caça ofertas de beleza e skincare na Shopee via API GraphQL e publica no Telegram.
-
-**Symply** *(em desenvolvimento)*
-Marketplace de serviços de beleza com foco em UI/UX e agendamento.
+Tenho facilidade para aprender novas ferramentas e gosto muito de entender a lógica por trás de regras de negócio e eficiência de sistemas.
 
 ---
 
-### Stack atual
+## 🚀 Cases Técnicos & Desafios
+Soluções desenvolvidas para desafios práticos e processos seletivos, seguindo requisitos reais do mercado.
 
-HTML · CSS · JavaScript · React · Git · Linux
+* **[Case Técnico: Automação com n8n](https://github.com/samaravs/automacao---n8n)**: Fluxo automatizado estruturado para integração de serviços e otimização de processos baseados em regras de negócio.
+
+## 🌐 Desenvolvimento Web & Front-End 
+Aplicações completas focadas em performance, interfaces modernas, visualização de dados e integração segura com APIs.
+
+* **[Só Oferta Boa](https://github.com/samaravs/soofertaboa)**: Plataforma de afiliados integrada à API da Shopee. Desenvolvida com **React 19**, **Vite** e **Tailwind CSS**, utilizando **Vercel Serverless Functions** (`/api/shopee.js`) como ponte de back-end segura.
+* **[Fortnite Stats](https://github.com/samaravs/fortnite-stats)**: Dashboard de estatísticas utilizando a API pública de Fortnite. Construído com **React 19**, **Tailwind CSS v4** (com interface em *Glassmorphism*), gráficos com **Recharts** e deploy automatizado (CI/CD) via **GitHub Actions**.
+* **[Notas de Cibersegurança](https://github.com/samaravs/Notas-de-ciberseguranca)**: Meu laboratório principal de Front-End (HTML, CSS e JavaScript), onde documento conceitos de segurança digital e boas práticas.
+
+## 🐍 Automação & Lógica em Python
+* **[Qualificação de Leads](https://github.com/samaravs/lead_qualifier)**: Script automatizado desenvolvido no PyCharm para filtragem e qualificação de clientes (CRM) aplicando lógica condicional complexa e loops de repetição.
+
+## 🍏 Mobile & Bem-Estar (Em Desenvolvimento)
+* **[My Health MVP](LINK_DO_REPO)**: Web app voltado para iOS focado no controle de metas alimentares. *Status atual: Interface e regras prontas, em fase de laboratório para contornar as restrições de notificações Push nativas do ecossistema Apple.*
 
 ---
 
-### Onde me encontrar
+### 🛠️ Tecnologias, Ferramentas & Competências
 
-[LinkedIn](https://www.linkedin.com/in/samaravs/) · samaravieira57@gmail.com
+* **Front-End / UI:** HTML5, CSS3, JavaScript (ES6+), React 19, Vite, Tailwind CSS v4, Recharts, Responsive Design
+* **Back-End, Automação & DevOps:** Python (PyCharm), n8n, Vercel Serverless Functions, GitHub Actions (CI/CD)
+* **Sistemas & Hardware:** Linux Mint, Windows, Git/GitHub, conhecimentos em Montagem e Manutenção de Computadores
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Samara Vieira](https://www.linkedin.com/in/samaravs/)
