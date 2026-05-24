@@ -14,7 +14,6 @@ Soluções desenvolvidas para desafios práticos e processos seletivos, seguindo
 ## 🌐 Desenvolvimento Web & Front-End 
 Aplicações completas focadas em performance, interfaces modernas, visualização de dados e integração segura com APIs.
 
-* **[Só Oferta Boa](https://github.com/samaravs/soofertaboa)**: Plataforma de afiliados integrada à API da Shopee. Desenvolvida com **React 19**, **Vite** e **Tailwind CSS**, utilizando **Vercel Serverless Functions** (`/api/shopee.js`) como ponte de back-end segura.
 * **[Fortnite Stats](https://github.com/samaravs/fortnite-stats)**: Dashboard de estatísticas utilizando a API pública de Fortnite. Construído com **React 19**, **Tailwind CSS v4** (com interface em *Glassmorphism*), gráficos com **Recharts** e deploy automatizado (CI/CD) via **GitHub Actions**.
 * **[Notas de Cibersegurança](https://github.com/samaravs/Notas-de-ciberseguranca)**: Meu laboratório principal de Front-End (HTML, CSS e JavaScript), onde documento conceitos de segurança digital e boas práticas.
 
